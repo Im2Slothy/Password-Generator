@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-     seand(time(0));
+     srand(time(0));
      string pass;
      
      
@@ -25,6 +25,6 @@ int main()
      
      cout<<"Your new password is: "<<pass; // the display of password
      
-     return0;
+     return 0;
      
 }
