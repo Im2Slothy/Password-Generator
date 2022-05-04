@@ -16,7 +16,7 @@ int main()
      data = "abcdefghijklmnopqrstuvwxyz"
             "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
             "0123456789"
-            "@%#-$+&=*/(;):',.€§£|¥~_…^\[<]>{!}?"
+            "!$%-+.?"
             
      for (int i = 1; i <= 12; i++)
      {
